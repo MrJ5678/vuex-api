@@ -1,0 +1,1 @@
+export const SOME_MUTATIONS = 'SOME_MUTATIONS'
